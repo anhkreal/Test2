@@ -1,0 +1,6 @@
+C:\Users\DELL\OneDrive\Máy tính\Calender\Calendar\DTO_Calendar\bin\Debug\DTO_Calendar.dll
+C:\Users\DELL\OneDrive\Máy tính\Calender\Calendar\DTO_Calendar\bin\Debug\DTO_Calendar.pdb
+C:\Users\DELL\OneDrive\Máy tính\Calender\Calendar\DTO_Calendar\obj\Debug\DTO_Calendar.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Máy tính\Calender\Calendar\DTO_Calendar\obj\Debug\DTO_Calendar.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Máy tính\Calender\Calendar\DTO_Calendar\obj\Debug\DTO_Calendar.dll
+C:\Users\DELL\OneDrive\Máy tính\Calender\Calendar\DTO_Calendar\obj\Debug\DTO_Calendar.pdb

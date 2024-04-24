@@ -1,0 +1,22 @@
+C:\Users\DELL\OneDrive\Máy tính\Calender\Calendar\BUS_Calendar\bin\Debug\BUS_Calendar.dll
+C:\Users\DELL\OneDrive\Máy tính\Calender\Calendar\BUS_Calendar\bin\Debug\BUS_Calendar.pdb
+C:\Users\DELL\OneDrive\Máy tính\Calender\Calendar\BUS_Calendar\bin\Debug\DAL_Calendar.dll
+C:\Users\DELL\OneDrive\Máy tính\Calender\Calendar\BUS_Calendar\bin\Debug\DTO_Calendar.dll
+C:\Users\DELL\OneDrive\Máy tính\Calender\Calendar\BUS_Calendar\bin\Debug\DAL_Calendar.pdb
+C:\Users\DELL\OneDrive\Máy tính\Calender\Calendar\BUS_Calendar\bin\Debug\DTO_Calendar.pdb
+C:\Users\DELL\OneDrive\Máy tính\Calender\Calendar\BUS_Calendar\obj\Debug\BUS_Calendar.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Máy tính\Calender\Calendar\BUS_Calendar\obj\Debug\BUS_Calendar.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Máy tính\Calender\Calendar\BUS_Calendar\obj\Debug\BUS_Calendar.csproj.CopyComplete
+C:\Users\DELL\OneDrive\Máy tính\Calender\Calendar\BUS_Calendar\obj\Debug\BUS_Calendar.dll
+C:\Users\DELL\OneDrive\Máy tính\Calender\Calendar\BUS_Calendar\obj\Debug\BUS_Calendar.pdb
+C:\Users\DELL\OneDrive\Máy tính\Calender - Copy\Calendar\BUS_Calendar\bin\Debug\BUS_Calendar.dll
+C:\Users\DELL\OneDrive\Máy tính\Calender - Copy\Calendar\BUS_Calendar\bin\Debug\BUS_Calendar.pdb
+C:\Users\DELL\OneDrive\Máy tính\Calender - Copy\Calendar\BUS_Calendar\bin\Debug\DAL_Calendar.dll
+C:\Users\DELL\OneDrive\Máy tính\Calender - Copy\Calendar\BUS_Calendar\bin\Debug\DTO_Calendar.dll
+C:\Users\DELL\OneDrive\Máy tính\Calender - Copy\Calendar\BUS_Calendar\bin\Debug\DAL_Calendar.pdb
+C:\Users\DELL\OneDrive\Máy tính\Calender - Copy\Calendar\BUS_Calendar\bin\Debug\DTO_Calendar.pdb
+C:\Users\DELL\OneDrive\Máy tính\Calender - Copy\Calendar\BUS_Calendar\obj\Debug\BUS_Calendar.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Máy tính\Calender - Copy\Calendar\BUS_Calendar\obj\Debug\BUS_Calendar.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Máy tính\Calender - Copy\Calendar\BUS_Calendar\obj\Debug\BUS_Calendar.csproj.CopyComplete
+C:\Users\DELL\OneDrive\Máy tính\Calender - Copy\Calendar\BUS_Calendar\obj\Debug\BUS_Calendar.dll
+C:\Users\DELL\OneDrive\Máy tính\Calender - Copy\Calendar\BUS_Calendar\obj\Debug\BUS_Calendar.pdb

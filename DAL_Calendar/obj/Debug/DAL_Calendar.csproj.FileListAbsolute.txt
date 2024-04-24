@@ -1,0 +1,18 @@
+C:\Users\DELL\OneDrive\Máy tính\Calender\Calendar\DAL_Calendar\bin\Debug\DAL_Calendar.dll
+C:\Users\DELL\OneDrive\Máy tính\Calender\Calendar\DAL_Calendar\bin\Debug\DAL_Calendar.pdb
+C:\Users\DELL\OneDrive\Máy tính\Calender\Calendar\DAL_Calendar\bin\Debug\DTO_Calendar.dll
+C:\Users\DELL\OneDrive\Máy tính\Calender\Calendar\DAL_Calendar\bin\Debug\DTO_Calendar.pdb
+C:\Users\DELL\OneDrive\Máy tính\Calender\Calendar\DAL_Calendar\obj\Debug\DAL_Calendar.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Máy tính\Calender\Calendar\DAL_Calendar\obj\Debug\DAL_Calendar.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Máy tính\Calender\Calendar\DAL_Calendar\obj\Debug\DAL_Calendar.csproj.CopyComplete
+C:\Users\DELL\OneDrive\Máy tính\Calender\Calendar\DAL_Calendar\obj\Debug\DAL_Calendar.dll
+C:\Users\DELL\OneDrive\Máy tính\Calender\Calendar\DAL_Calendar\obj\Debug\DAL_Calendar.pdb
+C:\Users\DELL\OneDrive\Máy tính\Calender - Copy\Calendar\DAL_Calendar\bin\Debug\DAL_Calendar.dll
+C:\Users\DELL\OneDrive\Máy tính\Calender - Copy\Calendar\DAL_Calendar\bin\Debug\DAL_Calendar.pdb
+C:\Users\DELL\OneDrive\Máy tính\Calender - Copy\Calendar\DAL_Calendar\bin\Debug\DTO_Calendar.dll
+C:\Users\DELL\OneDrive\Máy tính\Calender - Copy\Calendar\DAL_Calendar\bin\Debug\DTO_Calendar.pdb
+C:\Users\DELL\OneDrive\Máy tính\Calender - Copy\Calendar\DAL_Calendar\obj\Debug\DAL_Calendar.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Máy tính\Calender - Copy\Calendar\DAL_Calendar\obj\Debug\DAL_Calendar.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Máy tính\Calender - Copy\Calendar\DAL_Calendar\obj\Debug\DAL_Calendar.csproj.CopyComplete
+C:\Users\DELL\OneDrive\Máy tính\Calender - Copy\Calendar\DAL_Calendar\obj\Debug\DAL_Calendar.dll
+C:\Users\DELL\OneDrive\Máy tính\Calender - Copy\Calendar\DAL_Calendar\obj\Debug\DAL_Calendar.pdb

@@ -1,0 +1,36 @@
+C:\Users\DELL\OneDrive\Máy tính\Calender\Calendar\GUI_Calendar\bin\Debug\GUI_Calendar.exe.config
+C:\Users\DELL\OneDrive\Máy tính\Calender\Calendar\GUI_Calendar\bin\Debug\GUI_Calendar.exe
+C:\Users\DELL\OneDrive\Máy tính\Calender\Calendar\GUI_Calendar\bin\Debug\GUI_Calendar.pdb
+C:\Users\DELL\OneDrive\Máy tính\Calender\Calendar\GUI_Calendar\bin\Debug\BUS_Calendar.dll
+C:\Users\DELL\OneDrive\Máy tính\Calender\Calendar\GUI_Calendar\bin\Debug\DTO_Calendar.dll
+C:\Users\DELL\OneDrive\Máy tính\Calender\Calendar\GUI_Calendar\bin\Debug\DAL_Calendar.dll
+C:\Users\DELL\OneDrive\Máy tính\Calender\Calendar\GUI_Calendar\bin\Debug\BUS_Calendar.pdb
+C:\Users\DELL\OneDrive\Máy tính\Calender\Calendar\GUI_Calendar\bin\Debug\DTO_Calendar.pdb
+C:\Users\DELL\OneDrive\Máy tính\Calender\Calendar\GUI_Calendar\bin\Debug\DAL_Calendar.pdb
+C:\Users\DELL\OneDrive\Máy tính\Calender\Calendar\GUI_Calendar\obj\Debug\GUI_Calendar.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Máy tính\Calender\Calendar\GUI_Calendar\obj\Debug\GUI_Calendar.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\OneDrive\Máy tính\Calender\Calendar\GUI_Calendar\obj\Debug\GUI_Calendar.Form1.resources
+C:\Users\DELL\OneDrive\Máy tính\Calender\Calendar\GUI_Calendar\obj\Debug\GUI_Calendar.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Máy tính\Calender\Calendar\GUI_Calendar\obj\Debug\GUI_Calendar.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Máy tính\Calender\Calendar\GUI_Calendar\obj\Debug\GUI_Calendar.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Máy tính\Calender\Calendar\GUI_Calendar\obj\Debug\GUI_Calendar.csproj.CopyComplete
+C:\Users\DELL\OneDrive\Máy tính\Calender\Calendar\GUI_Calendar\obj\Debug\GUI_Calendar.exe
+C:\Users\DELL\OneDrive\Máy tính\Calender\Calendar\GUI_Calendar\obj\Debug\GUI_Calendar.pdb
+C:\Users\DELL\OneDrive\Máy tính\Calender - Copy\Calendar\GUI_Calendar\bin\Debug\GUI_Calendar.exe.config
+C:\Users\DELL\OneDrive\Máy tính\Calender - Copy\Calendar\GUI_Calendar\bin\Debug\GUI_Calendar.exe
+C:\Users\DELL\OneDrive\Máy tính\Calender - Copy\Calendar\GUI_Calendar\bin\Debug\GUI_Calendar.pdb
+C:\Users\DELL\OneDrive\Máy tính\Calender - Copy\Calendar\GUI_Calendar\bin\Debug\BUS_Calendar.dll
+C:\Users\DELL\OneDrive\Máy tính\Calender - Copy\Calendar\GUI_Calendar\bin\Debug\DTO_Calendar.dll
+C:\Users\DELL\OneDrive\Máy tính\Calender - Copy\Calendar\GUI_Calendar\bin\Debug\DAL_Calendar.dll
+C:\Users\DELL\OneDrive\Máy tính\Calender - Copy\Calendar\GUI_Calendar\bin\Debug\BUS_Calendar.pdb
+C:\Users\DELL\OneDrive\Máy tính\Calender - Copy\Calendar\GUI_Calendar\bin\Debug\DTO_Calendar.pdb
+C:\Users\DELL\OneDrive\Máy tính\Calender - Copy\Calendar\GUI_Calendar\bin\Debug\DAL_Calendar.pdb
+C:\Users\DELL\OneDrive\Máy tính\Calender - Copy\Calendar\GUI_Calendar\obj\Debug\GUI_Calendar.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Máy tính\Calender - Copy\Calendar\GUI_Calendar\obj\Debug\GUI_Calendar.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\OneDrive\Máy tính\Calender - Copy\Calendar\GUI_Calendar\obj\Debug\GUI_Calendar.Form1.resources
+C:\Users\DELL\OneDrive\Máy tính\Calender - Copy\Calendar\GUI_Calendar\obj\Debug\GUI_Calendar.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Máy tính\Calender - Copy\Calendar\GUI_Calendar\obj\Debug\GUI_Calendar.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Máy tính\Calender - Copy\Calendar\GUI_Calendar\obj\Debug\GUI_Calendar.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Máy tính\Calender - Copy\Calendar\GUI_Calendar\obj\Debug\GUI_Calendar.csproj.CopyComplete
+C:\Users\DELL\OneDrive\Máy tính\Calender - Copy\Calendar\GUI_Calendar\obj\Debug\GUI_Calendar.exe
+C:\Users\DELL\OneDrive\Máy tính\Calender - Copy\Calendar\GUI_Calendar\obj\Debug\GUI_Calendar.pdb
